@@ -4,9 +4,10 @@ This project includes scraping of Tesla's SEC fillings with BeautifulSoup4 to ge
 For Scraping Beautiful Soup 4 have been used with re to search and  match different format and units in the Filling. Pandas,Plotly, Matplotlib and Numpy are also Libraries used in the process. 
 
 # How to run
-Since there is no direct support of Pyplot visulaization in GitHub for Jupyter notebook , I made and upload the same interactive graph using Streamlit or Power BI.
-Here is the link for streamlit interactive UI for beautiful Data Visualization : https://teslarevenueandstock.streamlit.app/
-Requirement: Use two data in this repo and upload it. Then everything works like a magic. :)
+Since there is no direct support of Pyplot visulaization in GitHub for Jupyter notebook , I made the same interactive graph using Power BI and uploaded it above. Moreover, if you are insterested to try Streamlit, 
+here is the link for interactive UI and beautiful Data Visualization : https://teslarevenueandstock.streamlit.app/
+Requirement: Use two csv files above tesla_revenue.csv and tesla_stock.csv in this repo and upload it in the upload_box respectively. Then everything works like a magic. :)
 or 
-Copy and paste the code run it on your IDE and don't forget to use your email adress, if you want to scrap Tesla's page. If anyone want to use any of the uploaded csv files for further analysis , feel free to use it and I would be happy if you let me know via zesolomenki@gmail.com
-or  open Power BI Tesla_revenue_visual.pbix file to see using power BI.
+open Power BI Tesla_revenue_visual.pbix file to see using power BI.
+You can also Copy and paste the code , run it on your IDE and don't forget to use your email adress, if you want to try to scrap Tesla's page using my code. If anyone want to use any of the uploaded csv files for further analysis , feel free to use it and I would be happy if you let me know via zesolomenki@gmail.com.
+ 
